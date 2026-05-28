@@ -34,7 +34,8 @@ i)Resistance-Temperature for thermistor
 
 
 # TABULATION
-<img width="1092" height="450" alt="image" src="https://github.com/user-attachments/assets/6386f4ac-7bf7-4714-aa0d-c70f4477c87b" />
+<img width="1221" height="1600" alt="image" src="https://github.com/user-attachments/assets/eb3bc5a6-5979-432f-81b4-f0ad0167dad8" />
+
 
 
 
@@ -43,6 +44,7 @@ i)Resistance-Temperature for thermistor
 
 
 # GRAPH:
+<img width="1192" height="1594" alt="image" src="https://github.com/user-attachments/assets/c456f1f4-d37c-41d1-9084-fb189e591fbb" />
 
 
 # RESULT
